@@ -21,6 +21,4 @@ int main()
 		cout << setw(10) << "x=" << x << setw(10) << "y=" << y << endl;
 		x += h;
 	}
-	cout << "Goodbye" << endl;
-	cout << "Thank you" << endl;
 }
