@@ -22,4 +22,5 @@ int main()
 		x += h;
 	}
 	cout << "Goodbye" << endl;
+	cout << "Thank you" << endl;
 }
